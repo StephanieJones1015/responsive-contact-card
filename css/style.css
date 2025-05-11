@@ -43,4 +43,7 @@
     text-align: center;
 }   
 
-
+/*media query for tablet */
+@media (max-width: 768px) {
+    .contain
+}
