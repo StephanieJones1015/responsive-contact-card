@@ -20,6 +20,7 @@ body{
     justify-items: center;
     text-align:  center;
 }
+
 header, item1, item2, item3{
     display: flex;
     flex-direction: column;
@@ -32,9 +33,7 @@ header, item1, item2, item3{
     text-align: center;
 }
 
-
 .header{
-    
     width: 100px;
     border-radius: 50%;
     margin: 25px auto;
@@ -54,7 +53,6 @@ header, item1, item2, item3{
         justify-content: space-between;
         align-items: center;
         gap: 20px;
-
     }
 
 }
@@ -73,7 +71,6 @@ header, item1, item2, item3{
     justify-content: center;
     display: flex;
     flex-direction:column;
-
   }
 
  .container {
@@ -82,9 +79,6 @@ header, item1, item2, item3{
     grid-template-columns: 1fr 1fr;
     column-gap: 20px;
 }
-
-
-
 
 }
 
