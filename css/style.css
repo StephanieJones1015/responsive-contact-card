@@ -9,7 +9,7 @@
     background-color: rgb(140, 190, 190);
 }
 
-body{
+article {
     display: flex;
     flex-direction: column;
     gap: 10px;
